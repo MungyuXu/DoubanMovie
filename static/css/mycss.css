@@ -1,0 +1,22 @@
+
+.imglz{
+    text-align: center;
+    border-radius: 50%;
+    width: 100px;
+    background: gray;
+
+    padding: 90px 380px 80px 380px;
+    border-radius:38%;
+}
+#goToTop { position: fixed; bottom: 28px; right: 10%;}
+#goToTop a {
+    background: none repeat scroll 0 0 #3c3f41;
+    border: 1px solid #CCCCCC;
+    border-radius: 6px;
+    -webkit-border-radius: 3px;
+    color: #fffdfe;
+    font-size: 14px;
+    padding: 5px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #999;
+    -webkit-text-shadow: 0 1px 0 #999; }
